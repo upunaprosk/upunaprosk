@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 <!--
-**imenelydiaker/imenelydiaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
   
-<div align='center'>
-  
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=upunaprosk&show_icons=true&theme=radical) &nbsp;
-  
- <!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imenelydiaker&layout=compact&theme=radical)](https://github.com/imenelydiaker/github-readme-stats)
-  -->
+<div align="center">
+
+  <!-- Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=upunaprosk&theme=dracula" />
+
+  <!-- Profile details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upunaprosk&theme=dracula" />
 
 </div>
