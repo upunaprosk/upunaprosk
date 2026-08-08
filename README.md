@@ -1,26 +1,41 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center">Hi there 👋 </h1>
 
-<!--
-**upunaprosk/upunaprosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher working on **LLM efficiency, model compression, and safety**.
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.iproskurina.com/">Website</a> •
+  <a href="https://scholar.google.com/citations?user=YPYPhTAAAAAJ">Google Scholar</a> •
+  <a href="https://huggingface.co/iproskurina">Hugging Face</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-  
-<div align='center'>
-  
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=upunaprosk&show_icons=true&theme=radical) &nbsp;
-  
- <!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upunaprosk&layout=compact&theme=radical)](https://github.com/upunaprosk/github-readme-stats)
-  -->
+---
+
+### Recent Research
+
+- **The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data**  
+  [Paper](https://arxiv.org/abs/2608.04268)
+
+- **Fair-GPTQ: Bias-Aware Quantization for Large Language Models**  
+  [Paper](https://arxiv.org/abs/2509.15206) · [Code](https://github.com/upunaprosk/fair-gptq)
+
+- **HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection** - *LREC 2026*  
+  [Paper](https://arxiv.org/abs/2511.06391) · [Code](https://github.com/upunaprosk/hate-prototypes)
+
+- **Histoires Morales: A French Dataset for Assessing Moral Alignment** - *NAACL 2025*  
+  [Paper](https://arxiv.org/abs/2501.17117) · [Website](https://histoires-morales.github.io/)
+
+---
+
+### Research Resources
+
+* **[Awesome LLM Compression Safety](https://github.com/upunaprosk/Awesome-LLM-Compression-Safety)** - curated papers and resources on fairness, robustness, calibration, toxicity, and other safety effects of LLM compression.
+* **[Fair-GPTQ](https://github.com/upunaprosk/fair-gptq)** - bias-aware quantization for large language models.
+* **[HatePrototypes](https://github.com/upunaprosk/hate-prototypes)** - transferable prototype representations for implicit and explicit hate-speech detection.
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-stats-phi-nine.vercel.app/api?username=upunaprosk)](https://github.com/upunaprosk)
 
 </div>
