@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋 </h1>
 
-I'm a researcher working on **LLM efficiency, model compression, and safety**.
+![visitors](https://komarev.com/ghpvc/?username=upunaproskr) ![Total stars](https://img.shields.io/github/stars/upunaprosk?style=flat)
+
+I'm currently working on **LLM post-training and safety evaluation**.
 
 <p align="left">
   <a href="https://www.iproskurina.com/">Website</a> •
@@ -8,9 +10,7 @@ I'm a researcher working on **LLM efficiency, model compression, and safety**.
   <a href="https://huggingface.co/iproskurina">Hugging Face</a>
 </p>
 
----
-
-### Recent Research
+### Recent Papers
 
 * **Debias-SparseGPT: Bias-Aware Pruning for Large Language Models** - *EMNLP 2026 Main Conference*
   [Paper](https://arxiv.org/abs/2609.02496)
@@ -36,10 +36,7 @@ I'm a researcher working on **LLM efficiency, model compression, and safety**.
 * **[Fair-GPTQ](https://github.com/upunaprosk/fair-gptq)** - bias-aware quantization for large language models.
 * **[HatePrototypes](https://github.com/upunaprosk/hate-prototypes)** - transferable prototype representations for implicit and explicit hate-speech detection.
 
----
 
-<div align="center">
 
-[![GitHub Stats](https://github-stats-phi-nine.vercel.app/api?username=upunaprosk)](https://github.com/upunaprosk)
 
-</div>
+
