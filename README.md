@@ -2,7 +2,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=upunaproskr) ![Total stars](https://img.shields.io/github/stars/upunaprosk?style=flat)
 
-I'm currently working on **LLM post-training and safety evaluation**.
+I'm currently working on **LLM post-training data** and open-source projects.
 
 <p align="left">
   <a href="https://www.iproskurina.com/">Website</a> •
@@ -31,7 +31,7 @@ I'm currently working on **LLM post-training and safety evaluation**.
 
 ### Open-Source Projects
 
-* **[Debias-SparseGPT](https://arxiv.org/abs/2609.02496)** - bias-aware pruning for large language models.
+* **[Debias-SparseGPT](https://github.com/upunaprosk/debias-llm-compressor)** - bias-aware pruning for large language models.
 * **[Awesome LLM Compression Safety](https://github.com/upunaprosk/Awesome-LLM-Compression-Safety)** - curated papers and resources on fairness, robustness, calibration, toxicity, and other safety effects of LLM compression.
 * **[Fair-GPTQ](https://github.com/upunaprosk/fair-gptq)** - bias-aware quantization for large language models.
 * **[HatePrototypes](https://github.com/upunaprosk/hate-prototypes)** - transferable prototype representations for implicit and explicit hate-speech detection.
