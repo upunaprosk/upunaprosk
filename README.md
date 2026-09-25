@@ -31,6 +31,7 @@ I'm currently working on **LLM post-training** and several open-source projects.
 
 ### Open-Source Projects
 
+* **[DICE Leaderboard](https://huggingface.co/spaces/LabHC/dike-leaderboard)** - open leaderboard evaluating fairness, safety, and trustworthiness of compressed language models.
 * **[Debias-SparseGPT](https://github.com/upunaprosk/debias-llm-compressor)** - bias-aware pruning for large language models.
 * **[Awesome LLM Compression Safety](https://github.com/upunaprosk/Awesome-LLM-Compression-Safety)** - curated papers and resources on fairness, robustness, calibration, toxicity, and other safety effects of LLM compression.
 * **[Fair-GPTQ](https://github.com/upunaprosk/fair-gptq)** - bias-aware quantization for large language models.
