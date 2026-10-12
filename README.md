@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 </h1>
 
-![visitors](https://komarev.com/ghpvc/?username=upunaproskr) ![Total stars](https://img.shields.io/github/stars/upunaprosk?style=flat)
+![visitors](https://komarev.com/ghpvc/?username=upunaprosk) ![Total stars](https://img.shields.io/github/stars/upunaprosk?style=flat)
 
 I'm currently working on **LLM post-training** and several open-source projects.
 
